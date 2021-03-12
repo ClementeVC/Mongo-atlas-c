@@ -1,0 +1,15 @@
+1.- instalar
+    
+    npm i
+
+2.- instalar:
+
+    npm i express 
+
+    npm i mongoose
+
+    npm i -D nodemon
+
+3.- Inicial el servicio:
+
+    npm run server
